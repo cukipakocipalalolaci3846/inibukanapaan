@@ -2,7 +2,7 @@ EXTERN = EXTERN
 
 CONFIG = {
     Main_setting = {
-        License = "qF6bvngdVGteiFEquvs5",
+        License = "LLxTyTg4VsD3sKMGtt3c",
         ItemID = 4584,
         Pack = "vending_machine"
     },
