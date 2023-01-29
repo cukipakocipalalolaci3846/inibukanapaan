@@ -13,10 +13,10 @@ CONFIG = {
         delay_plant = 100
     },
     Storage_setting = {
-        storage_seed = "BINARKUIS",
+        storage_seed = "TOMPEP9183",
         storage_seed_id = EXTERN.id_door,
         storage_pack = "BINARKUIS",
-        storage_pack_id = "PAP"
+        storage_pack_id = EXTERN.id_door
     },
     Break_setting = {
         bool_break_other_world = false,
