@@ -88,7 +88,7 @@ CONFIG.captcha_setting = {
 }
 
 CONFIG.use_payy_webhook = true
-CONFIG.use_powershell_webhook = false
+CONFIG.use_powershell_webhook = true
 
 CONFIG.Trash_list ={5040,5042,5044,5032,5034,5036,5038,5028,7162,7164}
 
