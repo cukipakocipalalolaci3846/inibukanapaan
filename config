@@ -13,7 +13,7 @@ CONFIG = {
         delay_plant = 100
     },
     Storage_setting = {
-        storage_seed = "TOMPEP4019",
+        storage_seed = "TOMPEP1938",
         storage_seed_id = EXTERN.id_door,
         storage_pack = "BINARKUDA",
         storage_pack_id = EXTERN.id_door
