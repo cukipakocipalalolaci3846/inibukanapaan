@@ -4,7 +4,7 @@ CONFIG = {
     Main_setting = {
         License = lisensi,
         ItemID = 4584,
-        Pack = "vending_machine"
+        Pack = "eco_seed_pack"
     },
     Farm_setting = {
         farm_world = farm,
@@ -37,7 +37,7 @@ CONFIG = {
         disable_webhook = false
     },
     Custom_gems_buypack = {
-        true, 16000 
+        true, 10000 
     },
     Avoid_nuke = {
         use_feature = false,
